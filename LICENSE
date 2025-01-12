@@ -2,6 +2,18 @@ MIT License
 
 Copyright (c) 2025 Yan Cotta
 
+The software and documentation in this project are licensed under the MIT License, while the dataset used is subject to the terms of the UCI Machine Learning Repository.
+
+Dataset Attribution:
+Breast Cancer Wisconsin (Diagnostic) Data Set
+Creator: Dr. William H. Wolberg (University of Wisconsin Hospitals)
+Donor: Nick Street
+Date: November 1995
+
+Dataset Citation:
+O. L. Mangasarian and W. H. Wolberg: "Cancer diagnosis via linear programming", 
+SIAM News, Volume 23, Number 5, September 1990, pp 1 & 18.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
