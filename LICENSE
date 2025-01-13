@@ -1,8 +1,9 @@
 MIT License
 
-Copyright (c) 2025 Yan Cotta
+Copyright (c) 2025 SuperDataScience & Yan Cotta
 
-The software and documentation in this project are licensed under the MIT License, while the dataset used is subject to the terms of the UCI Machine Learning Repository.
+The project was based on SuperDataScience's exercises/datasets provided on the "Machine Learning A-Z" course I took.
+I used their example/dataset as a foundation,but made my own code with modifications and customizations.
 
 Dataset Attribution:
 Breast Cancer Wisconsin (Diagnostic) Data Set
